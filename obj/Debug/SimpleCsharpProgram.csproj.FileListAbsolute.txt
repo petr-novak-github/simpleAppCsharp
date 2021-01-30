@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\bin\Debug\SimpleCsharpProgram.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\bin\Debug\SimpleCsharpProgram.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\bin\Debug\SimpleCsharpProgram.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\obj\Debug\SimpleCsharpProgram.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\obj\Debug\SimpleCsharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\obj\Debug\SimpleCsharpProgram.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\02-ucim-se-2021-01-30\01-SimpleProgramCsharp\stuff\SimpleCsharpProgram\obj\Debug\SimpleCsharpProgram.pdb
